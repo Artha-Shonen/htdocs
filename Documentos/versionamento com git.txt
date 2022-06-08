@@ -1,0 +1,31 @@
+git config --global user.name "Nome do usuario"
+git config --global user.email email
+
+abre uma pasta
+clica com o direito
+git bash
+
+git init
+git status
+git add "nome do documento"
+git status
+git add --all
+
+git commit -m "frase de efeito"
+git push -u origin main
+git branch -M main
+git remote add origin "link do diretório" 
+
+
+==========atualizar o repositorio========
+git status
+git add --all
+
+git commit -m "frase de efeito"
+git push -u origin main
+
+=============clonar============
+cria uma nova pasta
+abrir o bash
+copia o link do repositorio
+git clone "link do repositorio"
