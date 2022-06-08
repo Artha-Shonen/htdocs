@@ -1,0 +1,35 @@
+
+@charset "UTF-8";
+
+        body{
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          background-color: hsl(33, 100%, 88%);
+          text-align: center;
+          
+        }
+        #exaula{
+            border-radius: 25px;
+            width: 250px;
+            display: block;
+            margin-right: auto; /*asdasdasd*/
+            margin-left: auto;
+        }
+        
+        img:hover{
+                transform: scaleX(-1);
+                transform: scaleY(-1);
+                
+        }
+        #Vermelho{
+            color: red;
+        }
+        #Azul{
+            color:aquamarine
+        }
+        #butão{
+            color: blueviolet;
+        }
+        .editarp{
+            font-size: 100px;
+        }
+       
