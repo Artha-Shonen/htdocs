@@ -1,17 +1,16 @@
-body{
-    margin: 0;
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-    
-}
+
 nav{
     background-color: rgb(0%, 44%, 40%);
     padding: 5px 20px; /*para dar margem ao primeiro valor para cima, segundo para baixo.*/
-    color: rgb(255, 265, 255);
+    color: rgb(255, 255, 255);
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     
+}
+#menu{
+    margin-left: 200px;
+    margin-right: 200px;
 }
 li{
     padding: 15px;
@@ -43,4 +42,39 @@ li:hover{
     margin: 0;
     width: 1920px;
     height: 500px;
+}
+#cards{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(0%, 44%, 40%);
+    color: rgb(255, 255, 255);
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-right: 350px;
+    margin-left: 350px;
+    height:400px;
+    text-align: center;
+}
+body{
+    margin: 0;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#Video-YT{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-right: 350px;
+    margin-left: 350px;
+    height:500px;
+   
+}
+#rodape{
+    background-color: rgb(0%, 44%, 40%);
+    
+    color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 50px;
 }
